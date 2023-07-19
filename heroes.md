@@ -1,6 +1,5 @@
 # Heroes marvel & DC
 
-- SpiderMan
 - IronMan
 - Thor
 - Linterna Verde
