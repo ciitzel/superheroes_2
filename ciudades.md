@@ -1,6 +1,5 @@
 # Ciudades
 
 1. Ciudad Gótica
-2. Metrópolis
-3. Hell's Kitchen
-4. New York
+2. Nueva York
+3. Sn Francisco
