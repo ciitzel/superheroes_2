@@ -7,3 +7,4 @@
 - Robin
 - Volcán Negro
 - Black Widonw
+- Capitan America
